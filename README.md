@@ -17,17 +17,17 @@ dotnet watch
 ngrok http https://localhost:6000
 ```
 
-# set ultramsg Webhook URL 
+# set Webhook URL 
 
-Go to your ultramsg account for set Webhook URL after copying the ngrok url and add Route /api/ like this : 
+Go to your ultramsg account for set Webhook URL after copying the ngrok url and add /api/Route like this : 
 
 ```
 https://61-44-136-9.ngrok.io/api/
 ```
 
-# receive messages
+# receive WhatsApp messages
 
-You should be able to receive WhatsApp webhooks now .
+now You should be able to receive WhatsApp webhooks  .
 
 # Example json response
 ```
