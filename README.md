@@ -24,7 +24,7 @@ Go to your ultramsg account for set Webhook URL after copying the ngrok url and 
 ```
 https://61-44-136-9.ngrok.io/api/
 ```
-
+and enable this option "Webhook on Received" .
 # receive WhatsApp messages
 
 now You should be able to receive WhatsApp webhooks  .
