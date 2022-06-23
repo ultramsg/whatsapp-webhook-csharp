@@ -19,7 +19,7 @@ ngrok http https://localhost:6000
 
 # set Webhook URL 
 
-Go to your ultramsg account for set Webhook URL after copying the ngrok url and add /api/Route like this : 
+Go to your ultramsg account for set Webhook URL after copying the ngrok url and add /api/ Route like this : 
 
 ```
 https://61-44-136-9.ngrok.io/api/
